@@ -7,7 +7,7 @@ node liri.js my-tweets
 
 -This will show my last 20 tweets
 
-node liri.js spotify-this-song '<song name here>'
+node liri.js spotify-this-song 'song name here'
 
 -This will show:
     1. Artist
@@ -15,7 +15,7 @@ node liri.js spotify-this-song '<song name here>'
     3. A link to the preview of the song
     4. The album
 
-node liri.js movie-this '<movie name here>'
+node liri.js movie-this 'movie name here'
 
 -This will show:
     1. Title of the movie
